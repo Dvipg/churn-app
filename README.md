@@ -95,7 +95,7 @@ Churn Probability: 0.48
 
 ```bash
 # Clone repo
-git clone https://github.com/<your-username>/churn-app.git
+git clone [https://github.com/Dvipg/churn-app.git]
 cd churn-app
 
 # Install dependencies
