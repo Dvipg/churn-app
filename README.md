@@ -106,7 +106,7 @@ Churn Probability: 0.48
 This project is deployable on Streamlit Cloud for free.
 Public link format:
    ```bash
-   https://username-churn-app.streamlit.app
+   [https://username-churn-app.streamlit.app](https://5e518b13f645f8a9fd45083e272c799784dcc91c-tcmczibukvbwfgfmmkovz.streamlit.app/)
    ```
 ---
 ## 🏆 Key Takeaway
