@@ -111,7 +111,7 @@ streamlit run app.py
 
 This project is deployable on **Streamlit Cloud** for free.
 Example public link:
-👉 [https://username-churn-app.streamlit.app](https://5e518b13f645f8a9fd45083e272c799784dcc91c-tcmczibukvbwfgfmmkovz.streamlit.app/)
+👉 [https://Dvipg-churn-app.streamlit.app](https://5e518b13f645f8a9fd45083e272c799784dcc91c-tcmczibukvbwfgfmmkovz.streamlit.app/)
 
 ---
 
