@@ -40,9 +40,13 @@ It’s not just the code — it’s proof of problem-solving and persistence.
 
 ChurnApp/
 │
+
 ├── app.py # Streamlit web app
+
 ├── churn_pipeline.pkl # Saved ML pipeline (model + preprocessing)
+
 ├── requirements.txt # Python dependencies
+
 └── .csv # Example input file 
 
 
